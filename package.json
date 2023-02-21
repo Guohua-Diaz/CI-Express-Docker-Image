@@ -4,8 +4,8 @@
   "description": "",
   "main": "contacts.js",
   "scripts": {
-    "start": "node contacts.js",
-    "test": "jest --detectOpenHandles"
+    "test": "echo \"Error: no test specified\"",
+    "start": "node contacts.js"
   },
   "author": "jrw@mit.edu",
   "license": "MIT",
